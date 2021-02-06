@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 755d794d0d3369c4f8dd7e907f808065
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Flow Ext
+  fontNames:
+  - Flow Ext
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d4b482ca6e5db9b4ead864dca5d0836d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
