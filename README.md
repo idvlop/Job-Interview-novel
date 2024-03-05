@@ -7,8 +7,9 @@ Developed a parser that translates the contents of a text file into a game scrip
 
 Created using Unity and C#
 
+Background by https://dariaishmurat.artstation.com
+
 Character created with LivePortraitMaker - https://zephyo.itch.io/live-portrait-maker/
 
 Font - FlowExt
 
-Background by https://dariaishmurat.artstation.com
